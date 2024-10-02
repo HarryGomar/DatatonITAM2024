@@ -11,7 +11,7 @@ Este proyecto tiene como objetivo predecir la ubicación óptima para la apertur
 - **Diego Cottin** - Faculty en 4Geeks Academy España, Lic. en Matemáticas Aplicadas
 
 ## Contexto
-- El proyecto utiliza una red neuronal entrenada con datos de farmacias de alto rendimiento.
+- El proyecto utiliza modelos de aprendizaje de maquina entrenados con datos de farmacias de alto rendimiento.
 - Se realizó un análisis comparativo para interpretar indicadores económicos regionales.
 - La selección estratégica de 200 municipios para la apertura de nuevas farmacias se hizo analizando datos abiertos del INEGI y considerando variables económicas y demográficas.
 
