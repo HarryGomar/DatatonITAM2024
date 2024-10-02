@@ -53,10 +53,10 @@ PREP_PreprocesamientoDatos.ipynb
 PREP_TopFarmacias.ipynb
 
 PREP_Clusters.ipynb
-### Red Neuronal
-RN_EntrenamientoRedNeuronalFarmacias.ipynb
+### Modelo Prediccion 
+R_EntrenamientoModeloPrediccionFarmacias.ipynb
 
-RN_PrediccionesRNF.ipynb
+RN_Predicciones.ipynb
 ### Interpretacion
 INTER_RankingResultados.ipynb
 
